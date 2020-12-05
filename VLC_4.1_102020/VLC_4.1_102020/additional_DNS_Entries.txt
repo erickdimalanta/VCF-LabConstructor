@@ -1,0 +1,10 @@
+example-only.vcf.sddc.lab. FQDN4 10.0.0.230
+vcenter-wld.vcf.sddc.lab. FQDN4 10.0.0.50
+nsx-wld.vcf.sddc.lab. FQDN4 10.0.0.51
+nsx1-wld.vcf.sddc.lab. FQDN4 10.0.0.52
+nsx2-wld.vcf.sddc.lab. FQDN4 10.0.0.53
+nsx3-wld.vcf.sddc.lab. FQDN4 10.0.0.54
+edge1-wld.vcf.sddc.lab. FQDN4 10.0.0.55
+edge2-wld.vcf.sddc.lab. FQDN4 10.0.0.56
+vrslcm.vcf.sddc.lab. FQDN4 10.60.0.150
+kubeapi.vcf.sddc.lab. FQDN4 10.0.0.150
